@@ -1,0 +1,33 @@
+---
+title: "Projects"
+---
+
+# Projects
+
+## Improved Drinking Water Sources and Diarrheal Cases
+
+This project examined the relationship between household drinking water sources and reported diarrheal cases using public health survey data from Ethiopia. I used R to clean the data, create descriptive tables, calculate measures of association, and conduct logistic regression analysis.
+
+The goal of this project was to better understand whether access to improved drinking water sources was associated with lower reported diarrheal illness.
+
+[View GitHub Repository](https://github.com/Sliu639)
+
+---
+
+## Public Health Data Visualization Project
+
+This project focused on creating clear and accessible visualizations for communicating public health information to a general audience. I used R and ggplot2 to design charts that summarize differences in health-related measures across groups.
+
+The goal of this project was to make public health data easier to understand through effective visual design and storytelling.
+
+[View GitHub Repository](https://github.com/Sliu639)
+
+---
+
+## Applied Practice Experience: Medical Device Performance Summary
+
+For my Applied Practice Experience, I summarized clinical and preclinical performance information for a medical insufflator. This work involved reviewing device-related information and organizing findings related to safety, effectiveness, and usability.
+
+The goal of this project was to translate technical information into a clear summary that could support professional communication and decision-making.
+
+[View Project Materials](https://github.com/Sliu639)

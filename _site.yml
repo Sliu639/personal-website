@@ -1,0 +1,22 @@
+name: "personal-website"
+output_dir: "docs"
+
+navbar:
+  title: "Shuyang Liu"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Resume"
+      href: resume.html
+    - text: "Projects"
+      href: projects.html
+  right:
+    - icon: fa-github
+      href: https://github.com/Sliu639
+    - icon: fa-linkedin
+      href: https://www.linkedin.com/in/shuyang-liu-frank/
+
+output:
+  html_document:
+    theme: flatly
+    css: styles.css

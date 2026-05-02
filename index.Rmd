@@ -1,0 +1,29 @@
+
+---
+title: "Home"
+---
+
+<div class="hero-section">
+
+# Welcome to My Personal Website
+
+Hi, my name is **Shuyang Liu**. I am a Master of Public Health student in Epidemiology at Emory University.
+
+My interests include public health research, data analysis, epidemiology, biostatistics, and data visualization. This website highlights my academic projects, resume, and professional background.
+
+</div>
+
+## About Me
+
+I am interested in using data to better understand public health problems and support evidence-based decision-making. Through my graduate coursework and research projects, I have gained experience in data cleaning, descriptive analysis, regression modeling, and data visualization using SAS, R and Python.
+
+## Skills
+
+- R / RStudio  
+- Python  
+- Data cleaning and management  
+- Descriptive statistics  
+- Logistic regression  
+- Epidemiologic study design  
+- Data visualization  
+- Public health research  
